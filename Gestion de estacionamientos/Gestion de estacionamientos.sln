@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion de estacionamientos", "Gestion de estacionamientos\Gestion de estacionamientos.csproj", "{BBC2276D-4B04-4554-9C9F-BCFC6980C249}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorGDE", "InstaladorGDE\InstaladorGDE.vdproj", "{D2769835-69BC-4A4B-8D9C-27A75C350198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC2276D-4B04-4554-9C9F-BCFC6980C249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC2276D-4B04-4554-9C9F-BCFC6980C249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC2276D-4B04-4554-9C9F-BCFC6980C249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC2276D-4B04-4554-9C9F-BCFC6980C249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2769835-69BC-4A4B-8D9C-27A75C350198}.Debug|Any CPU.ActiveCfg = Debug
+		{D2769835-69BC-4A4B-8D9C-27A75C350198}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13EB2E6-95B1-429F-978B-13ABCF334785}
+	EndGlobalSection
+EndGlobal
